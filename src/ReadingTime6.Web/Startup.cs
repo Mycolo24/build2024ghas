@@ -8,6 +8,7 @@ namespace ReadingTime6.Web
 {
     public class Startup
     {
+
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
